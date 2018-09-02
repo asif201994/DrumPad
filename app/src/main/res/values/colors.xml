@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#21222c</color>
+    <color name="colorPrimaryDark">#21222c</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="bluestarcolor">#47f9fe</color>
+    <color name="blueendcolor">#1295fd</color>
+
+    <color name="bluelitestarcolor">#aff4f5</color>
+    <color name="blueliteendcolor">#69b7f5</color>
+
+    <color name="orangestarcolor">#feed64</color>
+    <color name="orangeendcolor">#dda660</color>
+
+    <color name="pinkstarcolor">#fd75a5</color>
+    <color name="pinkendcolor">#FFFF4989</color>
+
+
+    <color name="pinklitestarcolor">#f5bcd1</color>
+    <color name="pinkliteendcolor">#b65d7c</color>
+
+    <color name="purplestarcolor">#e897ff</color>
+    <color name="purpleendcolor">#bb08fc</color>
+
+    <color name="purplelitestarcolor">#e9bcf5</color>
+    <color name="purpleliteendcolor">#9c63b1</color>
+
+    <color name="greenstarcolor">#b4fa51</color>
+    <color name="greenendcolor">#78cb29</color>
+
+    <color name="greenlitestarcolor">#cdf593</color>
+    <color name="greenliteendcolor">#90c75c</color>
+
+
+
+</resources>
